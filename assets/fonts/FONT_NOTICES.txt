@@ -1,0 +1,14 @@
+NEXYRA self-hosted font notices
+
+The font family label "Nexyra Sans" is a CSS alias for Montserrat; the label "Nexyra UI" is a CSS alias for Inter.
+These are NOT entirely original/proprietary Nexyra fonts. Font binaries have been converted and subsetted to WOFF2 for web delivery.
+
+Montserrat (Copyright The Montserrat Project Authors), licensed SIL Open Font License 1.1.
+Source: https://github.com/JulietaUla/Montserrat
+License: https://openfontlicense.org/open-font-license-official-text/
+
+Inter (Copyright The Inter Project Authors), licensed SIL Open Font License 1.1.
+Source: https://github.com/rsms/inter
+License: https://openfontlicense.org/open-font-license-official-text/
+
+The logo's exact lettering is preserved as a transparent PNG image, with a complementary scalable vector recreation in assets/images/.

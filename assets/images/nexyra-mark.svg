@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 307 244" aria-label="Nexyra N mark">
+<defs>
+  <linearGradient id="blueAqua" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#1650FF"/>
+    <stop offset="43%" stop-color="#0D85FF"/>
+    <stop offset="100%" stop-color="#02D2E8"/>
+  </linearGradient>
+</defs>
+<g fill="none" stroke="url(#blueAqua)" stroke-width="19.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M 42 202 L 42 89 C 42 47, 69 30, 86 30 C 101 30, 110 35, 124 46 L 234 126"/>
+  <path d="M 108 130 L 221 208 C 239 221, 262 211, 267 191 Q 269 186, 269 176 L 269 33"/>
+</g>
+</svg>

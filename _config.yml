@@ -1,0 +1,33 @@
+# NEXYRA / Jekyll + GitHub Pages
+# Replace url/baseurl when publishing; read README.md for examples.
+title: "Nexyra | AI Apps & Automation"
+description: "Custom AI applications and business automations that eliminate repetitive work and are engineered to run efficiently."
+url: ""
+baseurl: ""
+lang: en-US
+
+# REQUIRED FOR REAL FORM SUBMISSIONS:
+# 1. Create a form at https://formspree.io/
+# 2. Replace the empty value with your exact form endpoint.
+# 3. Verify the destination email in Formspree and send a test submission.
+# Example: formspree_endpoint: "https://formspree.io/f/abcdwxyz"
+formspree_endpoint: "https://formspree.io/f/maeezlkn"
+
+# Optional published contact inbox. Leave blank if you prefer not to expose it.
+public_contact_email: ""
+
+# Only populate _data/testimonials.yml with consented, verified quotes.
+# The page hides the testimonials block automatically when this file is empty.
+
+markdown: kramdown
+permalink: pretty
+sass:
+  style: compressed
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - .github
+  - tools
+  - preview

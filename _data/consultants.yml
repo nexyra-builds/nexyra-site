@@ -1,0 +1,23 @@
+# These are disciplines/capabilities, not invented employee biographies.
+# Replace with named consultants only after verifying names, roles and permissions.
+- number: "01"
+  title: "AI product architecture"
+  summary: "The right app, the right model, and a plan that can survive the real world."
+  services:
+    - Product discovery
+    - AI & agent architecture
+    - Deployment planning
+- number: "02"
+  title: "Automation & integrations"
+  summary: "Connect the systems you already use and automate the handoffs between them."
+  services:
+    - CRM & API integrations
+    - Agent workflows
+    - Human approval steps
+- number: "03"
+  title: "LLM efficiency engineering"
+  summary: "Measure where tokens go, then design a smarter way to use them."
+  services:
+    - Model routing & caching
+    - Retrieval & prompt design
+    - Benchmarking & observability

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1116" height="244" viewBox="0 0 1116 244" role="img" aria-label="NEXYRA logo">
+
+<defs>
+  <linearGradient id="blueAqua" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#1650FF"/>
+    <stop offset="43%" stop-color="#0D85FF"/>
+    <stop offset="100%" stop-color="#02D2E8"/>
+  </linearGradient>
+</defs>
+<g fill="none" stroke="url(#blueAqua)" stroke-width="19.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M 42 202 L 42 89 C 42 47, 69 30, 86 30 C 101 30, 110 35, 124 46 L 234 126"/>
+  <path d="M 108 130 L 221 208 C 239 221, 262 211, 267 191 Q 269 186, 269 176 L 269 33"/>
+</g>
+
+<g fill="#FFFFFF"><path d="M607 700V178L187 700H105V0H205V522L625 0H707V700Z" transform="translate(376.000 159) scale(0.145 -0.145)"/>
+<path d="M205 87V313H556V398H205V613H599V700H105V0H613V87Z" transform="translate(513.740 159) scale(0.145 -0.145)"/>
+<path d="M660 0 395 362 642 700H533L339 431L143 700H29L276 359L13 0H128L335 289L545 0Z" transform="translate(630.890 159) scale(0.145 -0.145)"/>
+<path d="M651 700H552L327 331L103 700H-4L274 244V0H373V242Z" transform="translate(748.475 159) scale(0.145 -0.145)"/>
+<path d="M682 0 516 235C614 270 670 348 670 456C670 608 560 700 378 700H105V0H205V213H378C393 213 408 214 422 215L573 0ZM375 298H205V613H375C503 613 570 556 570 456C570 356 503 298 375 298Z" transform="translate(862.290 159) scale(0.145 -0.145)"/>
+<path d="M628 0H733L415 700H316L-1 0H102L179 175H551ZM214 255 365 598 516 255Z" transform="translate(987.705 159) scale(0.145 -0.145)"/></g>
+</svg>

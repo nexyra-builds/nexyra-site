@@ -2,8 +2,8 @@
 # Replace url/baseurl when publishing; read README.md for examples.
 title: "Nexyra | AI Apps & Automation"
 description: "Custom AI applications and business automations that eliminate repetitive work and are engineered to run efficiently."
-url: ""
-baseurl: ""
+url: "https://nexyra-builds.github.io"
+baseurl: "/nexyra-site"
 lang: en-US
 
 # REQUIRED FOR REAL FORM SUBMISSIONS:
